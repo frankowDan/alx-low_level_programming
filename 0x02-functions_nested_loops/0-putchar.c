@@ -2,7 +2,7 @@
 
 //print putchar
 
-int main(putchar);
+int main();
 {
 	_putchar('_');
 	_putchar('p');
